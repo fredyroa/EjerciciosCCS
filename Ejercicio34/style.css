@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.menu {
+    margin: 0;
+    list-style: none;
+    line-height: 5;
+    background-color: green;
+    width: 400px;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    color:white;
+}
+.menu li:hover{
+    background-color: darkgreen;
+    width: 350px;
+}
